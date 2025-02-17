@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+    <url>
+        <loc>https://ypnewsyahoos.tw/%E6%80%A1%E9%B5%AC%E6%8A%95%E8%B3%87%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-%E7%A8%AE%E5%96%84%E5%9B%A0%EF%BC%8C%E5%BE%97%E5%96%84%E6%9E%9C%EF%BC%8C%E5%B9%B4%E5%BE%8C%E6%84%9B%E5%BF%83%E5%82%B3%E9%81%9E.html</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-02-15</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+    <url>
+        <loc>https://ypnewsyahoos.tw/</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-02-15</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+</urlset>
